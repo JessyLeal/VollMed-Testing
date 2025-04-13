@@ -26,4 +26,5 @@ module.exports = defineConfig({
     
     defaultCommandTimeout: 60000
   },
+  projectId: "yo12xm",
 });
